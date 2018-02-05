@@ -16,7 +16,7 @@ import com.gargoylesoftware.htmlunit.WebClient;
 
 /**		Project: 	Adidas.com Bot
  * 		Purpose:	To auto-checkout customers on ADC
- * 		Author:		Hunter Scheven
+ * 		Author:		tersch
  * 		Date:		December 12, 2017
  */
 	public class HTMLunit {
